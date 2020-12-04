@@ -6,6 +6,6 @@
     <title>Mi primera página</title>
 </head>     
 <body>
-    Estoy haciendo mi primera página
+    hola 
 </body>
 </html>
